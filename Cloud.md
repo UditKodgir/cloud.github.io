@@ -20,12 +20,12 @@
 3) Limited Control, As we know, cloud infrastructure is completely owned, managed, and monitored by the service provider, so the cloud users have less control over the function and execution of services within a cloud infrastructure.
 4) Security, Although cloud service providers implement the best security standards to store important information. But, before adopting cloud technology, you should be aware that you will be sending all your organization's sensitive information to a third party, i.e., a cloud computing service provider. While sending the data on the cloud, there may be a chance that your organization's information is hacked by Hackers.
 
-###Q3. Types of Clouds?
+### Q3. Types of Clouds?
 ***Answer***
 Public Cloud
 Private Cloud
 Hybrid Cloud
-o	Community Cloud
+Community Cloud
 1.Public Cloud:
 Public Cloud
 Public cloud is open to all to store and access information via the Internet using the pay-per-usage method.
