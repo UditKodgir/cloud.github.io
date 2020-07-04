@@ -22,10 +22,14 @@
 
 ### Q3. Types of Clouds?
 ***Answer***
-Public Cloud
-Private Cloud
-Hybrid Cloud
-Community Cloud
+1. Public Cloud
+2. Private Cloud
+3. Hybrid Cloud
+4. Community Cloud
+
+
+
+
 1.Public Cloud:
 Public Cloud
 Public cloud is open to all to store and access information via the Internet using the pay-per-usage method.
