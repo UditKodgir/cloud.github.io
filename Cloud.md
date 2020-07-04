@@ -92,3 +92,12 @@ Example: Health Care community cloud
 2. Security features are not as good as the private cloud.
 3. It is not suitable if there is no collaboration.
 4. The fixed amount of data storage and bandwidth is shared among all community members. 
+
+### Q4. What is EC2?
+***Answer***
+1. EC2 stands for Amazon Elastic Compute Cloud.
+2. Amazon EC2 is a web service that provides resizable compute capacity in the cloud.
+3. Amazon EC2 reduces the time required to obtain and boot new user instances to minutes rather than in older days, if you need a server then you had to put a purchase order, and cabling is done to get a new server which is a very time-consuming process. Now, Amazon has provided an EC2 which is a virtual machine in the cloud that completely changes the industry.
+4. You can scale the compute capacity up and down as per the computing requirement changes.
+5. Amazon EC2 changes the economics of computing by allowing you to pay only for the resources that you actually use. Rather than you previously buy physical servers, you would look for a server that has more CPU capacity, RAM capacity and you buy a server over 5 year term, so you have to plan for 5 years in advance. People spend a lot of capital in such investments. EC2 allows you to pay for the capacity that you actually use.
+6. Amazon EC2 provides the developers with the tools to build resilient applications that isolate themselves from some common scenarios.
