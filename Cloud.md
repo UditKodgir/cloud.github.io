@@ -32,15 +32,15 @@ Public cloud is open to all to store and access information via the Internet usi
 In public cloud, computing resources are managed and operated by the Cloud Service Provider (CSP).
 Example: Amazon elastic compute cloud (EC2), IBM SmartCloud Enterprise, Microsoft, Google App Engine, Windows Azure Services Platform.
 
-_Advantages of Public Cloud_
-There are the following advantages of Public Cloud -
+***Advantages of Public Cloud***
+1. There are the following advantages of Public Cloud -
 o	Public cloud is owned at a lower cost than the private and hybrid cloud.
 o	Public cloud is maintained by the cloud service provider, so do not need to worry about the maintenance.
 o	Public cloud is easier to integrate. Hence it offers a better flexibility approach to consumers.
 o	Public cloud is location independent because its services are delivered through the internet.
 o	Public cloud is highly scalable as per the requirement of computing resources.
 o	It is accessible by the general public, so there is no limit to the number of users.
-_Disadvantages of Public Cloud_
+2. Disadvantages of Public Cloud
 o	Public Cloud is less secure because resources are shared publicly.
 o	Performance depends upon the high-speed internet network link to the cloud provider.
 o	The Client has no control of data.
