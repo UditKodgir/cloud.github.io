@@ -22,7 +22,7 @@ Cloud computing offers Application Programming Interfaces (APIs) to the users fo
 Cloud offers us a huge amount of storing capacity for storing our important data such as documents, images, audio, video, etc. in one place.
 8) Data security
 Data security is one of the biggest advantages of cloud computing. Cloud offers many advanced features related to security and ensures that data is securely stored and handled.
-**2. Disadvantages of Cloud Computing :-**
+_2. Disadvantages of Cloud Computing :-_
 1) Internet Connectivity
 As you know, in cloud computing, every data (image, audio, video, etc.) is stored on the cloud, and we access these data through the cloud by using the internet connection. If you do not have good internet connectivity, you cannot access these data. However, we have no any other way to access data from the cloud.
 2) Vendor lock-in
