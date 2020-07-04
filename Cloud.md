@@ -5,9 +5,9 @@
 
 ### Q2. Advantage and disadvantage of cloud.
 ***Answer***
-**1. Advantage of Cloud Computing :-** 1
-1) Back-up and restore data 1a
-Once the data is stored in the cloud, it is easier to get back-up and restore that data using the cloud. 1b
+1. Advantage of Cloud Computing :- 
+1) Back-up and restore data 
+Once the data is stored in the cloud, it is easier to get back-up and restore that data using the cloud. 
 2) Improved collaboration
 Cloud applications improve collaboration by allowing groups of people to quickly and easily share information in the cloud via shared storage.
 3) Excellent accessibility
