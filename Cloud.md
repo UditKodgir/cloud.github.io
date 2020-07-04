@@ -3,9 +3,9 @@
 1. The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies don't have to manage physical servers themselves or run software applications on their own machines.
 2. The cloud enables users to access the same files and applications from almost any device, because the computing and storage takes place on servers in a data center, instead of locally on the user device. This is why a user can log into their Instagram account on a new phone after their old phone breaks and still find their old account in place, with all their photos, videos, and conversation history. It works the same way with cloud email providers like Gmail or Microsoft Office 365, and with cloud storage providers like Dropbox or Google Drive.
 
-### Q2. Advantage and disadvantage of cloud
+### Q2. Advantage and disadvantage of cloud.
 ***Answer***
-**A) Advantage of Cloud Computing :-**
+**1. Advantage of Cloud Computing :-**
 1) Back-up and restore data
 Once the data is stored in the cloud, it is easier to get back-up and restore that data using the cloud.
 2) Improved collaboration
@@ -22,7 +22,7 @@ Cloud computing offers Application Programming Interfaces (APIs) to the users fo
 Cloud offers us a huge amount of storing capacity for storing our important data such as documents, images, audio, video, etc. in one place.
 8) Data security
 Data security is one of the biggest advantages of cloud computing. Cloud offers many advanced features related to security and ensures that data is securely stored and handled.
-B) **Disadvantages of Cloud Computing :-**
+**2. Disadvantages of Cloud Computing :-**
 1) Internet Connectivity
 As you know, in cloud computing, every data (image, audio, video, etc.) is stored on the cloud, and we access these data through the cloud by using the internet connection. If you do not have good internet connectivity, you cannot access these data. However, we have no any other way to access data from the cloud.
 2) Vendor lock-in
